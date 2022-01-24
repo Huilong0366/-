@@ -14,6 +14,6 @@ _🦌 网页小游戏 🥛_
 
 小游戏：吃掉金丝虾球
 
-Github Page:https://arcxingye.github.io/EatKano/index.html
+Github Page:https://huilong0366.github.io/Eat-Golden-Shrimp-Balls/index.html
 
 一时兴起做的，开源自https://github.com/arcxingye/EatKano
